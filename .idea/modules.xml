@@ -6,7 +6,17 @@
       <module fileurl="file://$PROJECT_DIR$/base_collection/base_collection.iml" filepath="$PROJECT_DIR$/base_collection/base_collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/base_design/base_design.iml" filepath="$PROJECT_DIR$/base_design/base_design.iml" />
       <module fileurl="file://$PROJECT_DIR$/base_java/base_java.iml" filepath="$PROJECT_DIR$/base_java/base_java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/base_stream/stream.iml" filepath="$PROJECT_DIR$/base_stream/stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_leetcode/base_leetcode.iml" filepath="$PROJECT_DIR$/base_leetcode/base_leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_mysql/base_mysql.iml" filepath="$PROJECT_DIR$/base_mysql/base_mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_stream/base_stream.iml" filepath="$PROJECT_DIR$/base_stream/base_stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_thread/base_thread.iml" filepath="$PROJECT_DIR$/base_thread/base_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_mq/middle_mq.iml" filepath="$PROJECT_DIR$/middle_mq/middle_mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_mybatis/middle_mybatis.iml" filepath="$PROJECT_DIR$/middle_mybatis/middle_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_redis/middle_redis.iml" filepath="$PROJECT_DIR$/middle_redis/middle_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_spring/middle_spring.iml" filepath="$PROJECT_DIR$/middle_spring/middle_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_springboot/middle_springboot.iml" filepath="$PROJECT_DIR$/middle_springboot/middle_springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_springcloud/middle_springcloud.iml" filepath="$PROJECT_DIR$/middle_springcloud/middle_springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_springmvc/middle_springmvc.iml" filepath="$PROJECT_DIR$/middle_springmvc/middle_springmvc.iml" />
     </modules>
   </component>
 </project>

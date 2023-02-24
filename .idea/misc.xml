@@ -7,7 +7,17 @@
         <option value="$PROJECT_DIR$/base_java/pom.xml" />
         <option value="$PROJECT_DIR$/base_collection/pom.xml" />
         <option value="$PROJECT_DIR$/base_design/pom.xml" />
+        <option value="$PROJECT_DIR$/base_learn/pom.xml" />
+        <option value="$PROJECT_DIR$/base_thread/pom.xml" />
         <option value="$PROJECT_DIR$/base_stream/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/base_mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_mq/pom.xml" />
       </list>
     </option>
   </component>
