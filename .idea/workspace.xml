@@ -4,28 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_learn/base_learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/base_thread.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/MyRunable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadExampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadLocal/ThreadLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_spring/middle_spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_springmvc/middle_springmvc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_springmvc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_springmvc/src/main/resources/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_springmvc/src/main/resources/springmvc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_stream/base_stream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base_stream/base_stream.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_stream/src/main/java/cn/cwb/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_stream/src/main/java/cn/cwb/DemoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_stream/stream.iml" beforeDir="false" />
+    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/base_mysql/base_mysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_mq/middle_mq.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_mybatis/middle_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_redis/middle_redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_springboot/middle_springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_springcloud/middle_springcloud.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,8 +110,16 @@
       <workItem from="1676945545352" duration="24000" />
       <workItem from="1677060598411" duration="2068000" />
       <workItem from="1677121188569" duration="3436000" />
-      <workItem from="1677204692419" duration="1532000" />
+      <workItem from="1677204692419" duration="1830000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1677209057466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677209057466</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,5 +136,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
