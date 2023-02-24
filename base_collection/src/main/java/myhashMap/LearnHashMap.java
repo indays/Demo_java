@@ -1,6 +1,7 @@
 package myhashMap;
 
 import java.util.HashMap;
+import java.util.Map;
 
 public class LearnHashMap {
 
@@ -14,6 +15,11 @@ public class LearnHashMap {
 
         // jdk1.8   put方法：  HashMap 的无参构造函数     put
         // hashMap  无参   currentSize  loadforty  =0.75
+
+
+        Map currentMap = new HashMap();
+
+
 
 
         // jdk1.7 hashMap  数组加链表

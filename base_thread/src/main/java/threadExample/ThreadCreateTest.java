@@ -1,6 +1,8 @@
 package threadExample;
 
-import java.util.concurrent.FutureTask;
+import sun.nio.ch.ThreadPool;
+
+import java.util.concurrent.*;
 
 public class ThreadCreateTest {
 
@@ -10,7 +12,7 @@ public class ThreadCreateTest {
 
     }
 
-    public void test01(){
+    public void test01() throws ExecutionException, InterruptedException {
 
         // Thread创建线程
         MyThread myThread = new MyThread();
@@ -21,6 +23,22 @@ public class ThreadCreateTest {
         FutureTask<Integer> futureTask = new FutureTask<>(callable);
 
         Thread mycallThread = new Thread(futureTask);
+        mycallThread.run();
+        System.out.println(futureTask.get());
+
+
+        MyRunnable runnable = new MyRunnable();
+        runnable.run();
+
+
+        ExecutorService executorService = Executors.newCachedThreadPool();
+        executorService.execute(new MyRunnable());
+
+
+
+        ThreadPoolExecutor threadPoolExecutor =
+                new ThreadPoolExecutor(10, 5, 10L, TimeUnit.MINUTES,
+                        new LinkedBlockingDeque<>(100),Executors.defaultThreadFactory(),new ThreadPoolExecutor.AbortPolicy());
 
 
 

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init" />
+    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadCreateTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,8 +56,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.general",
     "vue.rearranger.settings.migration": "true"
   }
@@ -106,7 +112,7 @@
       <workItem from="1677060598411" duration="2068000" />
       <workItem from="1677121188569" duration="3436000" />
       <workItem from="1677204692419" duration="7391000" />
-      <workItem from="1677222462331" duration="1887000" />
+      <workItem from="1677222462331" duration="4777000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -129,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677224329651</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1677224374769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677224374769</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
