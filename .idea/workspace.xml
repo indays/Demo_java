@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/base_mysql/base_mysql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_mq/middle_mq.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_mybatis/middle_mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_redis/middle_redis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_springboot/middle_springboot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_springcloud/middle_springcloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadCreateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/base_collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/base_collection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/myarraylist/LearnArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/myarraylist/LearnArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_leetcode/base_leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base_leetcode/base_leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/MyRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/MyRunnable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +42,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Lnvjrh9qA8NlKa43AFZSOFSsyx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,37 +52,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Learn/Demo_java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ThreadExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadExample.ThreadExampleTest" />
-      <module name="base_thread" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -81,6 +82,13 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadExample.ThreadExampleTest" />
+      <module name="base_thread" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,7 +118,8 @@
       <workItem from="1676945545352" duration="24000" />
       <workItem from="1677060598411" duration="2068000" />
       <workItem from="1677121188569" duration="3436000" />
-      <workItem from="1677204692419" duration="1830000" />
+      <workItem from="1677204692419" duration="7391000" />
+      <workItem from="1677222462331" duration="1550000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -119,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677209057466</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1677209344371</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677209344371</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +151,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
