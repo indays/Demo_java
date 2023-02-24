@@ -1,4 +1,13 @@
 ## 多线程
-** 并发原因
+
+* 线程状态
+
+![img.png](img.png)
+
+
+
+
+* Synchronized
+
 
 

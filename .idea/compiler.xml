@@ -18,26 +18,13 @@
         <module name="middle_redis" />
         <module name="base_stream" />
         <module name="middle_spring" />
+        <module name="base_jvm" />
         <module name="base_thread" />
         <module name="middle_mq" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="base_collection" target="1.8" />
-      <module name="base_design" target="1.5" />
-      <module name="base_java" target="1.5" />
       <module name="base_leetcode" target="8" />
-      <module name="base_mysql" target="1.8" />
-      <module name="base_stream" target="1.8" />
-      <module name="base_thread" target="1.8" />
-      <module name="middle_mq" target="1.8" />
-      <module name="middle_mybatis" target="1.8" />
-      <module name="middle_redis" target="1.8" />
-      <module name="middle_spring" target="1.8" />
-      <module name="middle_springboot" target="1.8" />
-      <module name="middle_springcloud" target="1.8" />
-      <module name="middle_springmvc" target="1.8" />
-      <module name="stream" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

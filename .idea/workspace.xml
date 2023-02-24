@@ -5,11 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_jvm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_jvm/src/main/resources/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_jvm/src/main/resources/jvm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadStauts/MyThreadStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_thread/src/main/resources/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadCreateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/base_collection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_design/base_design.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_java/base_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_mysql/base_mysql.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_stream/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base_stream/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_thread/base_thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_mq/middle_mq.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_mybatis/middle_mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_redis/middle_redis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_spring/middle_spring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_springboot/middle_springboot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_springcloud/middle_springcloud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_springmvc/middle_springmvc.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +57,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2Lnvjrh9qA8NlKa43AFZSOFSsyx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -49,7 +75,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
     "last_opened_file_path": "E:/Learn/Demo_java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -112,7 +140,7 @@
       <workItem from="1677060598411" duration="2068000" />
       <workItem from="1677121188569" duration="3436000" />
       <workItem from="1677204692419" duration="7391000" />
-      <workItem from="1677222462331" duration="4777000" />
+      <workItem from="1677222462331" duration="6543000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -142,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677224374769</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1677230640703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677230640703</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
