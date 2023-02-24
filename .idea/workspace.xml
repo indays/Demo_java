@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/ThreadCreateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/base_collection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/base_collection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/myarraylist/LearnArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/myarraylist/LearnArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/mycurrenthashmap/MyCurrentHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/myhashMap/LearnHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_leetcode/base_leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/base_leetcode/base_leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/MyRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_thread/src/main/java/threadExample/MyRunnable.java" afterDir="false" />
-    </list>
+    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +106,7 @@
       <workItem from="1677060598411" duration="2068000" />
       <workItem from="1677121188569" duration="3436000" />
       <workItem from="1677204692419" duration="7391000" />
-      <workItem from="1677222462331" duration="1550000" />
+      <workItem from="1677222462331" duration="1887000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -135,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677209344371</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init">
+      <created>1677224329651</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677224329651</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
