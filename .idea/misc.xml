@@ -20,6 +20,8 @@
         <option value="$PROJECT_DIR$/base_mysql/pom.xml" />
         <option value="$PROJECT_DIR$/middle_mq/pom.xml" />
         <option value="$PROJECT_DIR$/base_jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/base_leetcode/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_rabbitMQ/pom.xml" />
       </list>
     </option>
   </component>

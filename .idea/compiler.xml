@@ -12,6 +12,7 @@
         <module name="base_java" />
         <module name="middle_springmvc" />
         <module name="base_mysql" />
+        <module name="middle_rabbitMQ" />
         <module name="middle_mybatis" />
         <module name="middle_springcloud" />
         <module name="base_leetcode" />
@@ -21,10 +22,11 @@
         <module name="base_jvm" />
         <module name="base_thread" />
         <module name="middle_mq" />
+        <module name="middle_mybatiis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="base_leetcode" target="8" />
+      <module name="middle_mybatiis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

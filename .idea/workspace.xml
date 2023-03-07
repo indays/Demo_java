@@ -5,8 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/base_leetcode/src/main/java/domo01/CQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_mysql/src/main/resources/MySql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/java/xc/domo/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/java/xc/intercept/MyIntercept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/resources/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/resources/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/resources/mybatis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/src/main/resources/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/src/main/resources/rabbitMQ.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_redis/src/main/resources/redis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_spring/src/main/resources/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_spring/src/main/resources/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base_jvm/src/main/resources/jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_jvm/src/main/resources/jvm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_leetcode/base_leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base_leetcode/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_stream/base_stream.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/middle_mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_spring/src/main/resources/spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/middle_spring/src/main/resources/spring.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +59,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -56,7 +84,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/Learn/Demo_java",
+    "last_opened_file_path": "E:/Work/Project/trunk",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,11 +92,14 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.general",
+    "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Learn\Demo_java\middle_mybatis\src\main\resources" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -118,7 +149,21 @@
       <workItem from="1677060598411" duration="2068000" />
       <workItem from="1677121188569" duration="3436000" />
       <workItem from="1677204692419" duration="7391000" />
-      <workItem from="1677222462331" duration="11655000" />
+      <workItem from="1677222462331" duration="12881000" />
+      <workItem from="1677391364528" duration="11000" />
+      <workItem from="1677396533747" duration="1566000" />
+      <workItem from="1677402681274" duration="2704000" />
+      <workItem from="1677463962377" duration="20000" />
+      <workItem from="1677509288091" duration="1173000" />
+      <workItem from="1677550321128" duration="9000" />
+      <workItem from="1677585421348" duration="2171000" />
+      <workItem from="1677637095952" duration="4307000" />
+      <workItem from="1677684842403" duration="444000" />
+      <workItem from="1677723724961" duration="21000" />
+      <workItem from="1677906395303" duration="3111000" />
+      <workItem from="1677983667696" duration="2993000" />
+      <workItem from="1678009689425" duration="2184000" />
+      <workItem from="1678067742431" duration="16150000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -169,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677234943202</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init">
+      <created>1677308768336</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677308768336</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
