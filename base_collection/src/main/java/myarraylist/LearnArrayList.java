@@ -28,4 +28,23 @@ public class LearnArrayList {
 
 
     }
+
+
+    public void domo01(){
+
+        List<Integer> list = new LinkedList();
+
+        list.add(1);
+
+        list.remove(1);
+
+
+        for (Integer i : list) {
+            System.out.println(i);
+        }
+
+
+    }
+
+
 }
