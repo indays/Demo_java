@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="base_collection" />
-        <module name="base_design" />
+        <module name="middle_zookeeper" />
         <module name="middle_springboot" />
         <module name="base_java" />
         <module name="middle_springmvc" />
@@ -15,17 +15,19 @@
         <module name="middle_rabbitMQ" />
         <module name="middle_mybatis" />
         <module name="middle_springcloud" />
+        <module name="middle_dubbo" />
         <module name="base_leetcode" />
         <module name="middle_redis" />
         <module name="base_stream" />
         <module name="middle_spring" />
         <module name="base_jvm" />
         <module name="base_thread" />
-        <module name="middle_mq" />
         <module name="middle_mybatiis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="base_design" target="1.5" />
+      <module name="middle_mq" target="1.8" />
       <module name="middle_mybatiis" target="1.8" />
     </bytecodeTargetLevel>
   </component>

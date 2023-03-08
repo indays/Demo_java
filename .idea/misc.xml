@@ -7,7 +7,6 @@
         <option value="$PROJECT_DIR$/stream/pom.xml" />
         <option value="$PROJECT_DIR$/base_java/pom.xml" />
         <option value="$PROJECT_DIR$/base_collection/pom.xml" />
-        <option value="$PROJECT_DIR$/base_design/pom.xml" />
         <option value="$PROJECT_DIR$/base_learn/pom.xml" />
         <option value="$PROJECT_DIR$/base_thread/pom.xml" />
         <option value="$PROJECT_DIR$/base_stream/pom.xml" />
@@ -18,10 +17,11 @@
         <option value="$PROJECT_DIR$/middle_springcloud/pom.xml" />
         <option value="$PROJECT_DIR$/middle_redis/pom.xml" />
         <option value="$PROJECT_DIR$/base_mysql/pom.xml" />
-        <option value="$PROJECT_DIR$/middle_mq/pom.xml" />
         <option value="$PROJECT_DIR$/base_jvm/pom.xml" />
         <option value="$PROJECT_DIR$/base_leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/middle_rabbitMQ/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/pom.xml" />
       </list>
     </option>
   </component>

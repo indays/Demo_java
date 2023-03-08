@@ -5,31 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
-      <change afterPath="$PROJECT_DIR$/base_leetcode/src/main/java/domo01/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_mysql/src/main/resources/MySql.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/java/xc/domo/MybatisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/java/xc/intercept/MyIntercept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/resources/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/resources/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_mybatis/src/main/resources/mybatis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/src/main/resources/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_rabbitMQ/src/main/resources/rabbitMQ.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_redis/src/main/resources/redis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_spring/src/main/resources/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/middle_spring/src/main/resources/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_leetcode/src/main/java/domo02/复杂链表的复制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/src/main/resources/dubbo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_zookeeper/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_zookeeper/src/main/resources/zookeeper.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/java/myarraylist/LearnArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/java/myarraylist/LearnArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_design/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/middle_zookeeper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_java/src/main/java/cn/cwb/base/interfaceandabstract/domo01.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_java/src/main/java/cn/cwb/base/interfaceandabstract/domo01.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/base_jvm/src/main/resources/jvm.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_jvm/src/main/resources/jvm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_leetcode/base_leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base_leetcode/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_stream/base_stream.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/middle_mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/middle_mybatis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middle_spring/src/main/resources/spring.md" beforeDir="false" afterPath="$PROJECT_DIR$/middle_spring/src/main/resources/spring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_leetcode/src/main/java/domo01/CQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_stream/src/main/java/cn/cwb/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/base_stream/src/main/java/cn/cwb/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_mq/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/middle_dubbo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_redis/src/main/resources/redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/middle_redis/src/main/resources/redis.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,25 +71,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "E:/Work/Project/trunk",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Learn/Demo_java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Learn\Demo_java\middle_mybatis\src\main\resources" />
@@ -163,7 +157,9 @@
       <workItem from="1677906395303" duration="3111000" />
       <workItem from="1677983667696" duration="2993000" />
       <workItem from="1678009689425" duration="2184000" />
-      <workItem from="1678067742431" duration="16150000" />
+      <workItem from="1678067742431" duration="21872000" />
+      <workItem from="1678198401103" duration="1557000" />
+      <workItem from="1678245372264" duration="3273000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -221,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677308768336</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="init">
+      <created>1678174860171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678174860171</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +235,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="91" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="107" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
