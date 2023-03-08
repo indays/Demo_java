@@ -11,17 +11,17 @@
         <module name="middle_springboot" />
         <module name="base_java" />
         <module name="middle_springmvc" />
-        <module name="base_mysql" />
+        <module name="supper_leetcode" />
         <module name="middle_rabbitMQ" />
         <module name="middle_mybatis" />
         <module name="middle_springcloud" />
         <module name="middle_dubbo" />
-        <module name="base_leetcode" />
         <module name="middle_redis" />
         <module name="base_stream" />
         <module name="middle_spring" />
         <module name="base_jvm" />
         <module name="base_thread" />
+        <module name="middle_mysql" />
         <module name="middle_mybatiis" />
       </profile>
     </annotationProcessing>
