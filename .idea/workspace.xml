@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init" />
+    <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/base_jvm/src/main/java/org/domo01/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_design/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_design/src/main/java/org/example/constructordesign/abstractfactory/FurnitureAbstractFactoryBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_design/src/main/java/org/example/constructordesign/factory/AButtonFactoryBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_design/src/main/java/org/example/entity/AButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_design/src/main/java/org/example/entity/BButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_design/src/main/java/org/example/entity/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_design/src/main/java/org/example/entity/CButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_nginx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_nginx/src/main/java/org/nginx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/使用最小花费爬楼梯_746/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/打家劫舍_198/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/最接近的三数之和/Solution01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/最长公共前缀/Solution01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/爬楼梯_70/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/爬楼梯_70/Solution01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/第N个泰波那契数_1137/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/第N个泰波那契数_1137/Solution01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_java/src/main/resources/baseJava.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_java/src/main/resources/baseJava.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_thread/src/main/resources/Thread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supper_leetcode/src/main/java/domo01/最大平均通过率.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supper_leetcode/src/main/java/domo02/复杂链表的复制.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +85,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Learn/Demo_java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Work/Project/trunk&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -93,19 +120,6 @@
     <configuration name="ThreadExampleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threadExample.ThreadExampleTest" />
       <module name="base_thread" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="middle_mysql" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="middle_mysql" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,7 +166,24 @@
       <workItem from="1678009689425" duration="2184000" />
       <workItem from="1678067742431" duration="21872000" />
       <workItem from="1678198401103" duration="1557000" />
-      <workItem from="1678245372264" duration="3585000" />
+      <workItem from="1678245372264" duration="8936000" />
+      <workItem from="1678344361914" duration="1236000" />
+      <workItem from="1678368484196" duration="1218000" />
+      <workItem from="1678529716572" duration="851000" />
+      <workItem from="1678673590500" duration="3905000" />
+      <workItem from="1678760352241" duration="2476000" />
+      <workItem from="1678934832443" duration="10000" />
+      <workItem from="1679030579320" duration="1821000" />
+      <workItem from="1679191905602" duration="5961000" />
+      <workItem from="1679364694885" duration="2924000" />
+      <workItem from="1679537421749" duration="233000" />
+      <workItem from="1679969385393" duration="5009000" />
+      <workItem from="1680155905003" duration="6412000" />
+      <workItem from="1680269992528" duration="75000" />
+      <workItem from="1680578477475" duration="3916000" />
+      <workItem from="1680765010563" duration="3020000" />
+      <workItem from="1680833350626" duration="6438000" />
+      <workItem from="1680849999591" duration="4948000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -224,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678252872681</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="init">
+      <created>1678252982552</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678252982552</updated>
+    </task>
+    <task id="LOCAL-00012" summary="init">
+      <created>1678253200311</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678253200311</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

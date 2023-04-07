@@ -24,6 +24,8 @@
         <option value="$PROJECT_DIR$/middle_dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/middle_mysql/pom.xml" />
         <option value="$PROJECT_DIR$/supper_leetcode/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_design/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_nginx/pom.xml" />
       </list>
     </option>
   </component>

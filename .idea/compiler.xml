@@ -17,9 +17,11 @@
         <module name="middle_springcloud" />
         <module name="middle_dubbo" />
         <module name="middle_redis" />
+        <module name="middle_design" />
         <module name="base_stream" />
         <module name="middle_spring" />
         <module name="base_jvm" />
+        <module name="middle_nginx" />
         <module name="base_thread" />
         <module name="middle_mysql" />
         <module name="middle_mybatiis" />
