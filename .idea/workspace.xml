@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="921d2961-bd5b-4294-b40e-a79b9c8e7ecf" name="Default Changelist" comment="feat: 0407-init">
-      <change afterPath="$PROJECT_DIR$/base_java/src/main/java/cn/cwb/base/泛型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_java/src/main/java/cn/cwb/base/注解.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supper_leetcode/src/main/java/出现最频繁的偶数元素_2404/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/dubbo_api_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/src/main/java/org/api/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/src/main/java/org/api/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/src/main/java/org/api/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_consumer_xml/dubbo_consumer_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_consumer_xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/dubbo_provider_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/src/main/java/org/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/src/main/resources/dubbo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_java/src/main/java/cn/cwb/base/interfaceandabstract/InDomeAbstractTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_java/src/main/java/cn/cwb/base/interfaceandabstract/InDomeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/base_java/src/main/java/cn/cwb/base/interfaceandabstract/domo01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" beforeDir="false" afterPath="$PROJECT_DIR$/base_collection/src/main/resources/collection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_design/src/main/java/org/example/constructordesign/abstractfactory/FurnitureAbstractFactoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/middle_design/src/main/java/org/example/constructordesign/abstractfactory/FurnitureAbstractFactoryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_dubbo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/middle_dubbo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_dubbo/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_dubbo/src/main/resources/dubbo.md" beforeDir="false" afterPath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +75,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -71,14 +89,19 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "643725c460f6440cfd5ecf535126bf01",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Learn\Demo_java\middle_dubbo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Learn\Demo_java\middle_mybatis\src\main\resources" />
     </key>
@@ -86,7 +109,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Spring Boot.ProviderApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -118,8 +141,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dubbo_provider_xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ProviderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ProviderApplication" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.ThreadExampleTest" />
       </list>
@@ -181,7 +218,8 @@
       <workItem from="1680849999591" duration="7874000" />
       <workItem from="1680919939045" duration="3162000" />
       <workItem from="1681092189719" duration="2154000" />
-      <workItem from="1681363424276" duration="5366000" />
+      <workItem from="1681363424276" duration="22962000" />
+      <workItem from="1681463225443" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677209057466</created>
@@ -274,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680859785498</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: 0407-init">
+      <created>1681379302578</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681379302578</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,5 +347,15 @@
     <MESSAGE value="init" />
     <MESSAGE value="feat: 0407-init" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: 0407-init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AbstractMethodError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -6,7 +6,10 @@
 >ArrayList 底层的数据结构为Object数组，ArrayList 有三个构造函数：无参构造函数、指定长度的构造函数、实现了Collection类的构造函数
 >ArrayList 初始化长度10, add  addAll 方法   add->  ensureCapacityInternal-> grow
 >ArrayList 线程不安全   
-> 
+>  Arrays   Stream    Lists     new Array();
+>   
+
+
 
 * LinkList 链表
 >  LinkList 底层数据结构是双向链表  

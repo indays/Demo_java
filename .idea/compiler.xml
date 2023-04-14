@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -15,7 +16,6 @@
         <module name="middle_rabbitMQ" />
         <module name="middle_mybatis" />
         <module name="middle_springcloud" />
-        <module name="middle_dubbo" />
         <module name="middle_redis" />
         <module name="middle_design" />
         <module name="base_stream" />
@@ -29,6 +29,16 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="base_design" target="1.5" />
+      <module name="dubble_api_xml" target="1.8" />
+      <module name="dubblo_api_xml" target="1.8" />
+      <module name="dubbo_annotations_domo" target="1.8" />
+      <module name="dubbo_provider_xm" target="1.8" />
+      <module name="dubbo_xml_consumer (1)" target="1.8" />
+      <module name="dubbo_xml_consumer (2)" target="1.8" />
+      <module name="dubbo_xml_domo" target="1.8" />
+      <module name="middle_dubbo (1)" target="1.8" />
+      <module name="middle_dubbo (2)" target="1.8" />
+      <module name="middle_dubbo_xml" target="1.8" />
       <module name="middle_mq" target="1.8" />
       <module name="middle_mybatiis" target="1.8" />
     </bytecodeTargetLevel>

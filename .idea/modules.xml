@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Demo_java.iml" filepath="$PROJECT_DIR$/.idea/Demo_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/dubbo_api_xml.iml" filepath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/dubbo_api_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_consumer_xml/dubbo_consumer_xml.iml" filepath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_consumer_xml/dubbo_consumer_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/dubbo_provider_xml.iml" filepath="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/dubbo_provider_xml.iml" />
     </modules>
   </component>
 </project>

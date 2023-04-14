@@ -26,8 +26,17 @@
         <option value="$PROJECT_DIR$/supper_leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/middle_design/pom.xml" />
         <option value="$PROJECT_DIR$/middle_nginx/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xm/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_xml_api/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_xml_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_consumer_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$" />
+  </component>
 </project>
