@@ -1,5 +1,6 @@
 package threadExample;
 
+import java.util.*;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -35,6 +36,34 @@ public class ThreadExampleTest {
         executorService.shutdown();
 
         System.out.println(threadExamples.getCnt());
+        Arrays.asList("");
+
+
+        for(String str:new String[]{"121","323"}){
+
+            char[] chars =str.toCharArray();
+            Arrays.sort(chars);
+
+            //chars.toString()
+        }
+
+
+        HashMap<String, List<String>> hashMap = new HashMap<>();
+
+        new ArrayList<>(hashMap.values());
+
+        int [] r =new int[]{};
+
+
+        Set set =new HashSet(Collections.singleton(r));
+
+        set.add(r);
+
+
+
+
+
+
     }
 
 

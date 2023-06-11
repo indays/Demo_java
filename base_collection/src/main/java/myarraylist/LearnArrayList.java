@@ -1,6 +1,8 @@
 package myarraylist;
 
 
+import sun.misc.Unsafe;
+
 import java.util.*;
 import java.util.stream.Stream;
 
@@ -17,6 +19,9 @@ public class LearnArrayList {
 
         List<String> colors = Stream.of("blue", "red", "yellow").collect(toList());
 
+        //arr.add();
+
+
 
 
         // ArrayList 底层Object数组 默认出参数初始化ArrayList 不会创建Object数据, 在第一次添加数据时，ArrayList 数量扩容
@@ -25,6 +30,9 @@ public class LearnArrayList {
         Vector<String> vector = new Vector<String>();
         vector.add("1");
         vector.add("2");
+
+
+
 
 
     }

@@ -36,7 +36,7 @@
 >Message ：消息，它是由消息头和消息体组成。消息头则包括Routing-Key、Priority（优先级）
 > 生产者  -exchange -banding  -queue  - 消费者
 > broker   virtual host    exchange  queue  banding  connection   channel   comsumer
-> 
+>
 ![img.png](img.png)
 
 # Exchange 方式
@@ -49,6 +49,7 @@
 
 # 幂等校验
 * MQ幂等校验两种方式：1.redis分布式锁防止mq重复消费   2：维护mq记录表，校验消息是否被消费   3：业务维度考虑防重设计
+
 
 
 
@@ -90,8 +91,29 @@ channel . txRollback 用于事务回滚,如果在事务提交执行之前由于 
 > MQ日志表 
 > 业务层防重复校验
 * RabbitMQ 方式消息丢失
->
-> 
+
+
+延迟消息的实现
+
+https://juejin.cn/post/7179077170470322236
+
 
 * RabbitMQ   最终一致性 
 * 
+
+
+rabbitMQ 持久化 
+队列持久化   channel    durable =true  
+消息持久化    deliverMode    2 
+
+
+
+activeMq  rabbitMQ  rocketMQ   kafra
+
+activeMq  
+
+
+rabbitMQ
+
+rocketMQ   高可用 集群   可靠   rabbitMQ   erlang  语言 是开源头   rocketMQ  基于 java 不开源头   知晓  rabbitMQ    x
+

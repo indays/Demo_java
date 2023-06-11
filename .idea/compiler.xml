@@ -32,10 +32,14 @@
       <module name="dubble_api_xml" target="1.8" />
       <module name="dubblo_api_xml" target="1.8" />
       <module name="dubbo_annotations_domo" target="1.8" />
+      <module name="dubbo_api_xml" target="1.8" />
+      <module name="dubbo_consumer_xml" target="1.8" />
       <module name="dubbo_provider_xm" target="1.8" />
+      <module name="dubbo_provider_xml" target="1.8" />
       <module name="dubbo_xml_consumer (1)" target="1.8" />
       <module name="dubbo_xml_consumer (2)" target="1.8" />
       <module name="dubbo_xml_domo" target="1.8" />
+      <module name="middle_dubbo" target="1.8" />
       <module name="middle_dubbo (1)" target="1.8" />
       <module name="middle_dubbo (2)" target="1.8" />
       <module name="middle_dubbo_xml" target="1.8" />
