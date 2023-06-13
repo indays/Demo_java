@@ -24,6 +24,7 @@
         <module name="middle_nginx" />
         <module name="base_thread" />
         <module name="middle_mysql" />
+        <module name="middle_tomcat" />
         <module name="middle_mybatiis" />
       </profile>
     </annotationProcessing>

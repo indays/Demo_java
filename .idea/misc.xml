@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_api_xml/pom.xml" />
         <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_consumer_xml/pom.xml" />
         <option value="$PROJECT_DIR$/middle_dubbo/dubbo_xml_domo/dubbo_provider_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/middle_tomcat/pom.xml" />
       </list>
     </option>
   </component>
